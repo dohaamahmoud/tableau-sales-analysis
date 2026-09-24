@@ -6,6 +6,10 @@ This project presents an interactive sales analysis dashboard built using Tablea
 
 The goal of the project is to explore sales data, identify important trends and patterns, and provide clear business insights through data visualization.
 
+📊 Dashboard Preview
+
+![Sales Analysis Dashboard](tableauDashboard.png)
+
 🎯 Objectives
 
 - Analyze overall sales performance
