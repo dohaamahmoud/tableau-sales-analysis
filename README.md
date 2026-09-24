@@ -1,53 +1,37 @@
-📊 Sales Analysis Dashboard – Tableau
+ 📊 Marketing Campaign Analysis Dashboard – Tableau
 
-📌 Project Overview
+ 📌 Project Overview
+An interactive Tableau dashboard analyzing customer behavior and marketing campaign performance. The goal is to understand who spends the most, which channels and campaigns perform best, and how customer recency relates to campaign response.
 
-This project presents an interactive sales analysis dashboard built using Tableau.
-
-The goal of the project is to explore sales data, identify important trends and patterns, and provide clear business insights through data visualization.
-
- 📊 Dashboard Preview
+📊 Dashboard Preview
 
 ![Tableau Dashboard](tabluea%20Dashbord.jpeg)
 
-🎯 Objectives
+ 🔢 Key KPIs
+| KPI | Value |
+| Total Spending | 1,240,896 |
+| Response Rate | 15.1% |
+| Average Income | 51,622 |
+| Total Customers | 2,205 |
 
-- Analyze overall sales performance
-- Identify sales trends and patterns
-- Compare sales across different categories
-- Explore customer and product performance
-- Create interactive visualizations and KPIs
-- Present insights in an easy-to-understand dashboard
+ 🎯 Objectives
+- Measure overall customer spending and campaign response rate
+- Compare spending across product categories
+- Evaluate the performance of each marketing campaign
+- Analyze purchasing behavior across channels (Store, Web, Catalog)
+- Explore the relationship between income and spending
+- Study how customer recency affects campaign response
 
-🛠️ Tools & Technologies
+ 💡 Key Insights
+- Wines and Meat are the top spending categories.
+- Store is the most used purchasing channel, followed by Web, then Catalog.
+- Spending increases with income.
+- Recent customers respond to campaigns far more than inactive ones (24.2% vs 8.4%).
 
-- Tableau
-- Microsoft Excel
-- Data Visualization
-- Data Analysis
-
-📈 Dashboard
-
-The dashboard provides interactive visualizations that help explore sales performance and discover useful business insights.
-
-🔍 Key Analysis Areas
-
-- Sales Performance
-- Product Analysis
-- Customer Analysis
-- Sales Trends
-- Category Performance
-
-💡 Key Skills Demonstrated
-
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-- Dashboard Design
-- Business Insights
+ 🛠️ Tools & Techniques
+- Tableau (dashboard design, filters, calculated fields, KPIs)
+- Microsoft Excel (data preparation)
 
  👩‍💻 Author
-
-Dohaa Mahmoud
-
-Aspiring Data Analyst | Excel | SQL | Power BI | Python
+Dohaa Mahmoud – Aspiring Data Analyst | Excel · SQL · Power BI · Python
+[LinkedIn](https://www.linkedin.com/in/dohaa-mahmoud-633a7b405)
